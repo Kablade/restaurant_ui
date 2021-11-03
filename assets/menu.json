@@ -1,0 +1,49 @@
+{
+  "meals": [
+    {
+      "name": "La nouveauté",
+      "price": 12.99,
+      "image": "https://ws.mcdonalds.fr/media/54/79/4e/54794e3cadc34b8eae49c07fff20d5d658b2ff7c"
+    },
+    {
+      "name": "Menu p'tit gros",
+      "price": 16.99,
+      "image": "https://ws.mcdonalds.fr/media/94/c3/d0/94c3d0d9662007b5ee84b1bf5c3b645dce20ba86"
+    },
+    {
+      "name": "Menu régime",
+      "price": 7.99,
+      "image": "https://ws.mcdonalds.fr/media/bf/b3/95/bfb395a2d5f07fce709a1ad84ad3496e03484c35"
+    },
+    {
+      "name": "Le classique",
+      "price": 9.99,
+      "image": "https://media.gqmagazine.fr/photos/606c2412a813725515a8096f/3:2/w_1350,h_900,c_limit/RoyalDeluxe.jpg"
+    },
+    {
+      "name": "Le deal du moment",
+      "price": 1.99,
+      "image": "https://ws.mcdonalds.fr/media/09/0e/eb/090eeba3e36f2aeaf47e0b0a6eda8c880cae345d"
+    },
+    {
+      "name": "Le veggie",
+      "price": 8.99,
+      "image": "https://ws.mcdonalds.fr/media/1f/62/6d/1f626d32494cf4943c5e1014ac64aab77093b7d7"
+    },
+    {
+      "name": "Le signature",
+      "price": 11.99,
+      "image": "https://ws.mcdonalds.fr/media/1f/03/1f/1f031fcc1529eb5511dcb52aed8b1afa5ae2395f"
+    },
+    {
+      "name": "Petite faim",
+      "price": 0.99,
+      "image": "https://m.mcdonalds.fr/image/layout_icon?img_id=295684"
+    },
+    {
+      "name": "Menu complet",
+      "price": 13.99,
+      "image": "https://m.mcdonalds.fr/image/layout_icon?img_id=50404"
+    }
+  ]
+}
